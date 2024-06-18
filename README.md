@@ -1,7 +1,5 @@
 # EXCEL-Dashboard-Project
 
-# Excel Data Science Project
-
 ## Overview
 This project represents the first step in my data science journey, focusing on data analysis and visualization using Microsoft Excel.
 
